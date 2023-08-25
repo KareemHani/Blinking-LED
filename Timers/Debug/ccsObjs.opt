@@ -1,1 +1,0 @@
-"./tm4c123gh6pm_startup_ccs.obj" "./Software Layers/APP/main.obj" "./Software Layers/MCAL/DIO.obj" "./Software Layers/MCAL/Timers.obj" "../tm4c123gh6pm.cmd" -llibc.a 
